@@ -11,6 +11,7 @@
     <modules>
         <module>demo1-ai-chat</module>
         <module>demo2-ai-role</module>
+        <module>demo8-ai-function-call</module>
     </modules>
 
     <parent>
